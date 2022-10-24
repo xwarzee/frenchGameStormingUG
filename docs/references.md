@@ -25,4 +25,4 @@
 
 **Stuart Brown: Play is more than fun**
 
-[![Stuart Brown: Play is more than fun](https://img.youtube.com/vi/HHwXlcHcTHc?list=PLB0A07DAE9F736DC2/default.jpg)](https://youtu.be/HHwXlcHcTHc?list=PLB0A07DAE9F736DC2)
+[![Stuart Brown: Play is more than fun](https://img.youtube.com/vi/HHwXlcHcTHc/default.jpg)](https://youtu.be/HHwXlcHcTHc)
