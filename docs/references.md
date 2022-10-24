@@ -1,11 +1,10 @@
-###Quelques liens utiles :
+### Quelques liens utiles :
 
 - [Le site du livre "Gamestorming"](https://gamestorming.com/)
 - [Une introduction au Gamestorming par l'un des auteurs du livre, Dave Gray](https://www.youtube.com/watch?v=w717-TtnfF4) (video 5 mn)
 - [Créativité : principes et techniques](http://fr.slideshare.net/fguely/crativit-thorie-et-pratiques)
 
-### 
-Quelques vidéos :
+### Quelques vidéos :
 ---
 **An introduction to Gamestorming**
 
