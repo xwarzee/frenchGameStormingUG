@@ -4,3 +4,6 @@
 - [Références pour découvrir le Gamestorming](http://www.meetup.com/French-GameStorming-User-Group/pages/R%C3%A9f%C3%A9rences/)
 - [Présentations de la soirée de lancement](playcamp0.md)
 - [Présentations du Playcamp #1](playcamp1.md)
+- [Présentations du Playcamp #2](playcamp2.md)
+- [Présentations du Playcamp #3](playcamp3.md)
+
