@@ -6,4 +6,5 @@
 - [Présentations du Playcamp #1](playcamp1.md)
 - [Présentations du Playcamp #2](playcamp2.md)
 - [Présentations du Playcamp #3](playcamp3.md)
+- [Références](references.md)
 
